@@ -1,0 +1,40 @@
+
+
+
+
+/* jhi
+p{
+  color: brown;  
+}
+span{
+     color: chartreuse;
+}
+.text_1,
+.text_2{
+    color:tan
+}
+#block{
+    color: hotpink; 
+}
+/* проиоритет */
+/* 
+.text_3{
+    color: mediumblue;
+    block-size: 50px;
+}
+p span{
+    color: mediumvioletred;
+}
+p mark{
+    color:purple
+}
+.sport{
+    color: teal;
+}
+.options {
+    color: yellow;
+}
+.header{
+    color: slateblue;
+}
+ */
